@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FT232RL_REEL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "VCC_MAX", "VCC_MIN", "IOUT_MAX", "IOUT_MIN", "ICC", "IGND", "RCA", "RJC", "ICCQ", "TECHNOLOGY";
+{========================================================================================}
+ "FTDI Chip", "FT232RL-REEL" (!) = "", "SOP65P778X200-28N", "Small Outline Packages", "895-FT232RL", "https://www.mouser.co.uk/ProductDetail/FTDI/FT232RL-REEL?qs=D1%2FPMqvA103RC6OU6bKtoA%3D%3D", "FT232RL-REEL", "https://www.arrow.com/en/products/ft232rl-reel/ftdi-chip?region=nac", "USB/Serial IC UART SSOP-28 FTDI Chip FT232RL-REEL, USB Controller, 3MBd, USB 2.0, 1.8  5.25 V, 28-Pin SSOP", "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf", "2 mm", "85", "", "500m", "", "USB TO UART SMD", "SSOP-28", "55.82", "6", "-0.5", "", "", "15m", "", "", "24.04", "", "CMOS_TTL"
+END_PART
+
+END.

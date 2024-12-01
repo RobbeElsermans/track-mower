@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GP1S094HCZ0F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-09-20-11:15:16)
+    (mountForm default
+        (footprintRef "GP1S094HCZ0F")
+        (spec "System")
+    )
+)

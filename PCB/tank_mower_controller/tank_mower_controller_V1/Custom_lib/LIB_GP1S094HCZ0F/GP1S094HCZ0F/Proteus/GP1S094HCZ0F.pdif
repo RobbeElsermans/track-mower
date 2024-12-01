@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "GP1S094HCZ0F"
+   (description "Sharp GP1S094HCZ0F Through Hole Slotted Optical Switch, Phototransistor Output")
+   (family "ANA")
+   (package "GP1S094HCZ0F")
+   (attribute "Datasheet Link" "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp1s094hcz_e.pdf")
+   (attribute "Geometry.Height" "4.8mm")
+   (attribute "Manufacturer_Name" "Sharp Microelectronics")
+   (attribute "Manufacturer_Part_Number" "GP1S094HCZ0F")
+   (attribute "Mouser Part Number" "852-GP1S094HCZ0F")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Sharp-Microelectronics/GP1S094HCZ0F?qs=5S%2F4hkdqNNdHndqaaxcjaw%3D%3D")
+   (attribute "Arrow Part Number" "GP1S094HCZ0F")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/gp1s094hcz0f/sharp?region=europe")
+   (gate
+    (symbol "GP1S094HCZ0F")
+    (pin "ANODE" 1 PS)
+    (pin "COLLECTOR" 2 PS)
+    (pin "EMITTER" 3 PS)
+    (pin "CATHODE" 4 PS)
+   )
+  )
+  (symbol "GP1S094HCZ0F"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1300 100) (pt 1300 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1500 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "GP1S094HCZ0F"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -5.025 0.3)
+      (pt 0.475 0.3)
+      (pt 0.475 -2.3)
+      (pt -5.025 -2.3)
+      (pt -5.025 0.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.208 1.658)
+      (pt 1.658 1.658)
+      (pt 1.658 -3.658)
+      (pt -6.208 -3.658)
+      (pt -6.208 1.658))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.275 0.3)
+      (pt -1.275 0.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.275 -2.3)
+      (pt -1.275 -2.3))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -4.550 0.000) (padstack 0))
+   (leg 3 (pt -4.550 -2.000) (padstack 0))
+   (leg 4 (pt 0.000 -2.000) (padstack 0))
+   (leg MH1 (pt -2.275 -1.750) (padstack 5))
+   (padstack 0
+    (hole 0.81)
+    (plated true)
+    (pad (layer TCOP) (round 1.316))
+    (pad (layer INNER) (round 1.316))
+    (pad (layer BCOP) (round 1.316))
+   )
+   (padstack 1
+    (hole 0.81)
+    (plated true)
+    (pad (layer TCOP) (square 1.316))
+    (pad (layer INNER) (round 1.316))
+    (pad (layer BCOP) (square 1.316))
+   )
+   (padstack 5
+    (hole 1.2)
+    (plated false)
+    (pad (layer TCOP) (round 0.600))
+    (pad (layer INNER) (round 0.600))
+    (pad (layer BCOP) (round 0.600))
+   )
+   (model "GP1S094HCZ0F.stp"
+    (euler 90 0 0)
+    (offset -2.2699999809265137 -1 2.1700000762939453)
+   )
+  )
+ )
+)

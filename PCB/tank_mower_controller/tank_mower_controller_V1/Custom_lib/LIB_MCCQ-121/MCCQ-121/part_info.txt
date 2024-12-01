@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=MCCQ-121
+PartCategory=Fuse
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2021-11-10 05:00:35
+Downloaded=2024-10-20 07:49:51
+3D=Y

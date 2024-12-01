@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI2323DS-T1-E3
+D SI2323DS-T1-E3, P-channel MOSFET Transistor 3.7 A 20 V, 3-Pin SOT-23, TO-236
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1580060.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.MCCQ-121 :1 ;The MCCQ-121 from Multicomp Pro is a PCB mount ATO fuse holder.
+MCCQ121
+*STM F
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 4
+*DFN MCCQ-121
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (MCCQ-121)
+~!Link Datasheet (-)
+~!Height (8.3mm)
+~!3D_Model (MCCQ-121)
+MCCQ-121
+1.1!U 2.1!U 3.1!U 4.1!U 

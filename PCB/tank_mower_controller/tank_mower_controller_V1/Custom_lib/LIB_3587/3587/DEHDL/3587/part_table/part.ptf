@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3587'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Keystone Electronics", "3587" (!) = "", "3587", "Other", "485-3587", "https://www.mouser.com/Search/Refine.aspx?Keyword=485-3587", "3587", "https://www.arrow.com/en/products/3587/keystone-electronics?utm_currency=USD&region=europe", "Adafruit Accessories DotStar Micro LEDs (APA102 2020)- Smart SMD RGB LED - 100 pack", "https://componentsearchengine.com/Datasheets/1/3587.pdf", "7 mm"
+END_PART
+
+END.

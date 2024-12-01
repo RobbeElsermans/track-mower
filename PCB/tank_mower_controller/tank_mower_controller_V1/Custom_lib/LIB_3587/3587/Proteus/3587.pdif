@@ -1,0 +1,130 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "3587"
+   (description "Adafruit Accessories DotStar Micro LEDs (APA102 2020)- Smart SMD RGB LED - 100 pack")
+   (family "ANA")
+   (package "3587")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/1/3587.pdf")
+   (attribute "Geometry.Height" "7mm")
+   (attribute "Manufacturer_Name" "Keystone Electronics")
+   (attribute "Manufacturer_Part_Number" "3587")
+   (attribute "Mouser Part Number" "485-3587")
+   (attribute "Mouser Price/Stock" "https://www.mouser.com/Search/Refine.aspx?Keyword=485-3587")
+   (attribute "Arrow Part Number" "3587")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/3587/keystone-electronics?utm_currency=USD&region=europe")
+   (gate
+    (symbol "3587")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+   )
+  )
+  (symbol "3587"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "3587"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -9.955 3.365)
+      (pt 9.955 3.365)
+      (pt 9.955 -3.365)
+      (pt -9.955 -3.365)
+      (pt -9.955 3.365))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.955 5.57)
+      (pt 10.955 5.57)
+      (pt 10.955 -5.57)
+      (pt -10.955 -5.57)
+      (pt -10.955 5.57))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -8 3.365)
+      (pt -9.955 3.365)
+      (pt -9.955 -3.365)
+      (pt -8 -3.365))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 8 3.365)
+      (pt 9.955 3.365)
+      (pt 9.955 -3.365)
+      (pt 8 -3.365))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -5.5 3.365)
+      (pt 5.5 3.365))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -5.5 -3.365)
+      (pt 5.5 -3.365))))
+   (leg 1 (pt -6.730 3.160) (padstack 0))
+   (leg 2 (pt -6.730 -3.160) (padstack 0))
+   (leg 3 (pt 6.730 -3.160) (padstack 0))
+   (leg 4 (pt 6.730 3.160) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.570 2.820 0 0 90.000))
+   )
+   (model "3587.stp"
+    (euler 90 0 0)
+    (offset -1.7599999904632568 -0.5600000023841858 4.809999942779541)
+   )
+  )
+ )
+)

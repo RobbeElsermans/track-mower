@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GP1S094HCZ0F")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/LIB_GP1S094HCZ0F/GP1S094HCZ0F/KiCad")(options "")(descr ""))
+  (lib (name "36-3587-ND")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/LIB_3587/3587/KiCad")(options "")(descr ""))
+  (lib (name "TLV2775AIN")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/ul_TLV2775AIN/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ESP32 D1 Mini")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/kicad-esp32-wemos-d1-mini-master/esp32-wemos-d1-mini.pretty")(options "")(descr ""))
+  (lib (name "BCW71")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/LIB_BCW71/BCW71/KiCad")(options "")(descr ""))
+  (lib (name "FT-232")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/LIB_FT232RL-REEL/FT232RL-REEL/KiCad")(options "")(descr ""))
+  (lib (name "SI-2323")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/LIB_SI2323DS-T1-E3/SI2323DS-T1-E3/KiCad")(options "")(descr ""))
+  (lib (name "mouse-bite")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/Panelization.pretty-master")(options "")(descr ""))
+  (lib (name "trim-pot")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/TC33X_2_105E")(options "")(descr ""))
+  (lib (name "mccq-121")(type "KiCad")(uri "${KIPRJMOD}/Custom_lib/LIB_MCCQ-121/MCCQ-121/KiCad")(options "")(descr ""))
+)

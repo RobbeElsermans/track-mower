@@ -1,0 +1,9 @@
+Manufacturer=FTDI Chip
+PartNumber=FT232RL-REEL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=28
+Version=3.1
+Released=2017-05-08 16:27:15
+Downloaded=2024-10-10 21:34:27
+3D=Y

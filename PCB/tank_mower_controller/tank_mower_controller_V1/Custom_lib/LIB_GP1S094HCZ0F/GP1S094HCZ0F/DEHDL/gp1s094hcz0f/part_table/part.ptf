@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GP1S094HCZ0F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Sharp Microelectronics", "GP1S094HCZ0F" (!) = "", "GP1S094HCZ0F", "Other", "852-GP1S094HCZ0F", "https://www.mouser.co.uk/ProductDetail/Sharp-Microelectronics/GP1S094HCZ0F?qs=5S%2F4hkdqNNdHndqaaxcjaw%3D%3D", "GP1S094HCZ0F", "https://www.arrow.com/en/products/gp1s094hcz0f/sharp?region=europe", "Sharp GP1S094HCZ0F Through Hole Slotted Optical Switch, Phototransistor Output", "http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp1s094hcz_e.pdf", "4.8 mm"
+END_PART
+
+END.

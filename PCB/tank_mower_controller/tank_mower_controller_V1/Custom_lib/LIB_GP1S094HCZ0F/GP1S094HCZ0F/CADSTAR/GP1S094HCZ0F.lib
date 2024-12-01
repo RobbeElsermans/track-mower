@@ -1,0 +1,18 @@
+.GP1S094HCZ0F :1 ;Sharp GP1S094HCZ0F Through Hole Slotted Optical Switch, Phototransistor Output
+GP1S094HCZ0F
+*STM Q
+*NGS
+*PLB 1="ANODE" 2="COLLECTOR" 3="EMITTER" 4="CATHODE"
+*MXP 5
+*DFN GP1S094HCZ0F
+~!Manufacturer_Name (Sharp Microelectronics)
+~!Manufacturer_Part_Number (GP1S094HCZ0F)
+~!Mouser Part Number (852-GP1S094HCZ0F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Sharp-Microelectronics/GP1S094HCZ0F?qs=5S%2F4hkdqNNdHndqaaxcjaw%3D%3D)
+~!Arrow Part Number (GP1S094HCZ0F)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/gp1s094hcz0f/sharp?region=europe)
+~!Link Datasheet (http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp1s094hcz_e.pdf)
+~!Height (4.8mm)
+~!3D_Model (GP1S094HCZ0F)
+GP1S094HCZ0F
+1.1!U 2.1!U 3.1!U 4.1!U 
