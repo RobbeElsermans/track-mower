@@ -35,6 +35,29 @@ L
 M
 ```
 
+## What to print
+- 1x [Battery_assemblyBattery_holder](track-mower/CAD/3D_printing/tank_mower-Battery_assemblyBattery_holder.stl)
+- 1x [chassis_body_V2](track-mower/CAD/3D_printing/tank_mower-chassis_body_V2.stl )
+- 2x [Track_assemblybearing002](track-mower/CAD/3D_printing/tank_mower-Track_assemblybearing002.stl )
+- 2x [Track_assemblybearing_holder_out001](track-mower/CAD/3D_printing/tank_mower-Track_assemblybearing_holder_out001.stl )
+- 4x [Track_assemblybearing_holder_out_608002](track-mower/CAD/3D_printing/tank_mower-Track_assemblybearing_holder_out_608002.stl )
+- 6x [Track_assemblyExtender](track-mower/CAD/3D_printing/tank_mower-Track_assemblyExtender.stl )
+- 2x [Track_assemblyFollower](track-mower/CAD/3D_printing/tank_mower-Track_assemblyFollower.stl )
+- 6x [Track_assemblyOverWheel](track-mower/CAD/3D_printing/tank_mower-Track_assemblyOverWheel.stl )
+- 2x [Track_assemblyPuller001](track-mower/CAD/3D_printing/tank_mower-Track_assemblyPuller001.stl )
+- 58x [Track_assemblytrack](track-mower/CAD/3D_printing/tank_mower-Track_assemblytrack.stl )
+- 2x [Track_assemblyTrack_plate](track-mower/CAD/3D_printing/tank_mower-Track_assemblyTrack_plate.stl )
+- 6x [Track_assemblyWasher](track-mower/CAD/3D_printing/tank_mower-Track_assemblyWasher.stl)
+- 1x [Track_assemblyWasher](track-mower/CAD/3D_printing/Blade.stl)
+
+## Other things
+- 608ZZ bearings
+- M3 washers, nuts and bolts
+- Hot glue
+- PowerPlus adapter
+- DC motors
+- Controller board
+
 ## Future Improvements
 Here are some ideas for future enhancements:
 1. **Advanced Controller**: Develop a controller for precise real-time control of the Track-Mower.
